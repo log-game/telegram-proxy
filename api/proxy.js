@@ -1,5 +1,5 @@
 export default async function handler(req, res) {
-  const TOKEN = '8550352315:AAEQ0Ixpe17_YEWiJD4RLhAs5BbqIoUirmY';
+  const TOKEN = '8550352315:AAGSuiM_dm9ycPD2RmrxZjYxqhXL8U8B2A8';
   const CHAT_ID = '-5222831613';
   
   // Разрешаем запросы с любого сайта
